@@ -39,7 +39,3 @@ and get an overview of TypeScript capabilities and principles.
 2.  Start by opening `exercises/exercise-00/index.ts`.
 
 3.  Once done with the exercise, proceed to the next one.
-
-## RoadMap
-
-- [ ] 11 写的不好
